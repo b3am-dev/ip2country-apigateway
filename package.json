@@ -1,0 +1,11 @@
+{
+  "name": "ip2country-apigateway",
+  "version": "1.0.0",
+  "description": "An API Gateway that return sthe country associated with an IP address using multiple vendors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
